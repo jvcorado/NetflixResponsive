@@ -157,13 +157,7 @@ img{
       text-align: center;
       
    }
-   .lista  .infantil{
-      margin: auto;
-   }
-   .lista  .infantil p{
-     padding: 0;
-   }
-
+ 
    .botao{
       display: flex;
    }
