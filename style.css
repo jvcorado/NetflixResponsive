@@ -63,6 +63,7 @@ img{
    flex-wrap: wrap;
    flex-grow: 2;
    text-align: center; 
+   cursor: pointer;
    
 }
 
@@ -168,6 +169,7 @@ img{
 
    .botao{
       display: flex;
+      cursor: pointer;
    }
    .btn{
       color:rgb(99,99,99) ;
