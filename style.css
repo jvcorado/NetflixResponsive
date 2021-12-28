@@ -37,7 +37,7 @@ img{
    text-decoration: underline;
 }
 .container{
-   max-width: 400px;
+   min-width: 200px;
    margin: auto;
    display: flex;
    flex-direction: column;
