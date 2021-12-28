@@ -24,9 +24,9 @@ img{
    align-items: center;
    justify-content: space-between;
    padding: 30px;
-
 }
 .cabecalho .logo{
+   
    width: 100px;
    height: 50px;
 }
@@ -76,7 +76,7 @@ img{
 }
 
 .lista  .infantil{
-   
+   margin-left: 1px;
 }
 
 .lista img:hover{
@@ -157,7 +157,13 @@ img{
       text-align: center;
       
    }
- 
+   .lista  .infantil{
+      margin: auto;
+   }
+   .lista  .infantil p{
+     padding: 0;
+   }
+
    .botao{
       display: flex;
    }
