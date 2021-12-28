@@ -37,7 +37,7 @@ img{
    text-decoration: underline;
 }
 .container{
-   max-width: 375px;
+   max-width: 400px;
    margin: auto;
    display: flex;
    flex-direction: column;
@@ -51,7 +51,6 @@ img{
    margin: 10px;
    color: white;
 }
-
 
 .container .lista {
    display: flex;
@@ -118,7 +117,7 @@ img{
 
 
 
-@media screen and (min-width: 376px) {
+@media screen and (min-width: 401px) {
 
    img{
       width: 150px;
